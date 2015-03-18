@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xyori>
+<xyori version="1.0">
+    <category name="Group1" expanded="yes">
+        <file title="filename1">
+            <propertise>filename1|filepath1-1|filesize|date|version</propertise>
+        </file>
+        <file title="filename2">
+            <propertise>filename2|filepath2-1|filesize|date|version</propertise>
+        </file>
+        <file title="filename3">
+            <propertise>filename3|filepath3-1|filesize|date|version</propertise>
+        </file>
+    </category>
+    <category name="Group2" expanded="yes">
+        <file title="filename4">
+            <propertise>filename4|filepath4-1|filesize|date|version</propertise>
+        </file>
+        <file title="filename6">
+            <propertise>filename6|filepath6-1|filesize|date|version</propertise>
+        </file>
+        <category name="sub Group1" expanded="yes">
+            <file title="filename5">
+                <propertise>filename5|filepath5-1|filesize|date|version</propertise>
+            </file>
+        </category>
+        <category name="sub Group2" expanded="yes">
+            <file title="filename7">
+                <propertise>filename7|filepath7-1|filesize|date|version</propertise>
+            </file>
+        </category>
+    </category>
+</xyori>
