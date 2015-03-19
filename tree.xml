@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xyori>
+<xyori version="1.0">
+    <category name="[New CateGory]" expanded="yes">
+        <category name="[New CateGory]" expanded="no"/>
+        <category name="[New CateGory]" expanded="no"/>
+    </category>
+    <category name="[New CateGory]" expanded="yes">
+        <category name="[New CateGory]" expanded="yes">
+            <category name="[New CateGory]" expanded="yes">
+                <category name="[New CateGory]" expanded="yes">
+                    <file title="[New File]">
+                        <propertise></propertise>
+                    </file>
+                    <file title="[New File]">
+                        <propertise></propertise>
+                    </file>
+                    <file title="[New File]">
+                        <propertise></propertise>
+                    </file>
+                </category>
+            </category>
+        </category>
+        <file title="[New File]">
+            <propertise></propertise>
+        </file>
+        <file title="[New File]">
+            <propertise></propertise>
+        </file>
+    </category>
+</xyori>
