@@ -1,4 +1,4 @@
-#include "treewidget.h"
+ï»¿#include "treewidget.h"
 #include "constance.h"
 
 #include <QAction>
@@ -41,7 +41,7 @@ void TreeWidget::contextMenuEvent(QContextMenuEvent */*event*/)
     QAction* removeFileAct = popMenu->addAction(tr("R&emove File"));
 
     int _x = mapFromGlobal(QCursor::pos()).x();
-    int _y = mapFromGlobal(QCursor::pos()).y() - this->header()->height();// Èç¹ûÓÐ±íÍ·,ÐèÒª¼õÈ¥±íÍ·¸ß¶È
+    int _y = mapFromGlobal(QCursor::pos()).y() - this->header()->height();// å¦‚æžœæœ‰è¡¨å¤´,éœ€è¦å‡åŽ»è¡¨å¤´é«˜åº¦
 
     QTreeWidgetItem *item = this->itemAt( QPoint(_x, _y) );
 
